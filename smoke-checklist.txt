@@ -1,4 +1,5 @@
 1. Add available product to the shopping cart
 2. Update product quantity and verify total price recalculation
 3. Proceed to checkout and submit an order with valid data
+4. Verify order confirmation email is sent
 
